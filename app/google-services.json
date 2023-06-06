@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162299029037",
+    "project_id": "whatsappa-e9210",
+    "storage_bucket": "whatsappa-e9210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162299029037:android:13620c70aee7c72aaa3aa4",
+        "android_client_info": {
+          "package_name": "com.abrarsardar.whatsappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162299029037-koml5btasb6nhshmk06gfpbjf4bsvvjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzegLssi7occljDbfAjD701kpqy7_zv1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162299029037-koml5btasb6nhshmk06gfpbjf4bsvvjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
